@@ -25,21 +25,21 @@ Here are some ideas to get you started:
 Aqui estão algumas das linguagens de programação e tecnologias que estou familiarizado:
 
 ## 👨‍💻 Linguagens: 
-[![My Skills](https://skillicons.dev/icons?i=java,python,javascript,c,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,c,html,css)](https://skillicons.dev)
 
 ## 🧰 Frameworks: 
-[![My Skills](https://skillicons.dev/icons?i=react,django)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=django,spring)](https://skillicons.dev)
 
 ## 🗄️ Bancos de Dados: 
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongo)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgree)](https://skillicons.dev)
 ## ⚙️ Ferramentas:
-[![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio,eclipse)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio,eclipse,intellij)](https://skillicons.dev)<br><br>
 
 ## 📫 Contato
 
-![Gmail Badge](https://img.shields.io/badge/-{SeuEmail}-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{SeuEmail})
+![Gmail lais](https://img.shields.io/badge/-{laiscc575@gmail.com}-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{laiscc575@gmail.com})
 [![Linkedin: lais](https://img.shields.io/badge/-ellendias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/laisdev/)](https://www.linkedin.com/in/laisdev/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/SeuUsuario?style=social)]({Link}) <br><br>
+<br><br>
 
 ![DiasLaisDeveloper GitHub stats](https://github-readme-stats.vercel.app/api?username=laisdeveloper&show_icons=true&theme=dark) <br><br>
 
