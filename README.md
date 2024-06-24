@@ -16,12 +16,14 @@ Here are some ideas to get you started:
 
 ## 💼 Perfil Profissional
 
-- 💻 Estudante de Programação
-- 🌱 Apaixonado por Tecnologia e Inovação
+- 💻 Estudante de Programação.
+- 🌱 Apaixonado por Tecnologia e Inovação.
 - 🎓 Cursando Ciências da Computação, no Instituto Federal do Ceará.
+- 🔭 Futura bolsista em Inteligência Artificial Expĺicável e Saúde Mental.
 
 ## 🚀 Habilidades
 
+Desde cedo sou focada em desenvolver qualquer coisa em equipe, e recentemente me encontrei na área de tecnologia. Sou uma frequente aluna (as vezes, ate me coloco para ensinar aos meus colegas) e autodidata.
 Aqui estão algumas das linguagens de programação e tecnologias que estou familiarizado:
 
 ## 👨‍💻 Linguagens: 
@@ -37,8 +39,8 @@ Aqui estão algumas das linguagens de programação e tecnologias que estou fami
 
 ## 📫 Contato
 
-![Gmail lais](https://img.shields.io/badge/-{laiscc575@gmail.com}-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{laiscc575@gmail.com})
-[![Linkedin: lais](https://img.shields.io/badge/-ellendias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/laisdev/)](https://www.linkedin.com/in/laisdev/)
+![Gmail lais](https://img.shields.io/badge/-{laisdev}-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{laiscc575@gmail.com})
+[![Linkedin: lais](https://img.shields.io/badge/-laisdev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/laisdev/)](https://www.linkedin.com/in/laisdev/)
 <br><br>
 
 ![DiasLaisDeveloper GitHub stats](https://github-readme-stats.vercel.app/api?username=laisdeveloper&show_icons=true&theme=dark) <br><br>
