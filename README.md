@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 ## 🚀 Habilidades
 
 Desde cedo sou focada em desenvolver qualquer coisa em equipe, e recentemente me encontrei na área de tecnologia. Sou uma frequente aluna (as vezes, ate me coloco para ensinar aos meus colegas) e autodidata.
+<br>
 Aqui estão algumas das linguagens de programação e tecnologias que estou familiarizado:
 
 ## 👨‍💻 Linguagens: 
@@ -39,7 +40,7 @@ Aqui estão algumas das linguagens de programação e tecnologias que estou fami
 
 ## 📫 Contato
 
-![Gmail lais](https://img.shields.io/badge/-{laisdev}-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{laiscc575@gmail.com})
+![Gmail lais](https://img.shields.io/badge/-{laiscc575@gmail.com}-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{laiscc575@gmail.com})
 [![Linkedin: lais](https://img.shields.io/badge/-laisdev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/laisdev/)](https://www.linkedin.com/in/laisdev/)
 <br><br>
 
