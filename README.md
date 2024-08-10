@@ -46,7 +46,7 @@ Aqui estão algumas das linguagens de programação e tecnologias que estou fami
 <!--
 ![LaisDeveloper GitHub stats](https://github-readme-stats.vercel.app/api?username=laisdeveloper&show_icons=true&theme=merko) 
 !-->
-![Lais's GitHub stats](https://github-readme-stats.vercel.app/api?username=laisdeveloper\&rank_icon=github&theme=chartreuse-dark)<br>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=laisdeveloper\&layout=compact&theme=chartreuse-dark)<br>
+![Lais's GitHub stats](https://github-readme-stats.vercel.app/api?username=laisdeveloper\&rank_icon=github&theme=midnight-purple&show_icons=true)<br>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=laisdeveloper\&layout=compact&theme=midnight-purple)<br>
 
 Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação. Estou ansioso para ouvir de você! 😊
