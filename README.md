@@ -44,6 +44,7 @@ Aqui estão algumas das linguagens de programação e tecnologias que estou fami
 [![Linkedin: lais](https://img.shields.io/badge/-laisdev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/laisdev/)](https://www.linkedin.com/in/laisdev/)
 <br><br>
 
-![DiasLaisDeveloper GitHub stats](https://github-readme-stats.vercel.app/api?username=laisdeveloper&show_icons=true&theme=dark) <br><br>
+![LaisDeveloper GitHub stats](https://github-readme-stats.vercel.app/api?username=laisdeveloper&show_icons=true&theme=transparent) <br><br>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=laisdeveloper&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação. Estou ansioso para ouvir de você! 😊
