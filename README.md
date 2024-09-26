@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 - 💻 Estudante de Programação.
 - 🌱 Apaixonado por Tecnologia e Inovação.
 - 🎓 Cursando Ciências da Computação, no Instituto Federal do Ceará.
-- 🔭 Bolsista em Inteligência Artificial Expĺicável e Saúde Mental.
+- 🔭 Futura bolsista em Inteligência Artificial Expĺicável e Saúde Mental.
 
-## 🚀 Habilidades
+## 🚀 Sobre Mim
 
-Desde cedo sou focada em desenvolver qualquer coisa em equipe, e recentemente me encontrei na área de tecnologia. Sou uma frequente aluna (as vezes, ate me coloco para ensinar aos meus colegas) e autodidata.
+Sempre fui curiosa e gostava de entender o porquê das coisas, e foi assim que me encontrei na área de Engenharia de Software. Tenho uma forte inclinação para o trabalho em equipe e adoro explorar novas soluções na tecnologia e inovação. Como autodidata, estou sempre buscando aprender algo novo e melhorar minhas habilidades.
 <br>
 Aqui estão algumas das linguagens de programação e tecnologias que estou familiarizado:
 
