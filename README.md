@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 💻 Estudante de Programação.
 - 🌱 Apaixonado por Tecnologia e Inovação.
 - 🎓 Cursando Ciências da Computação, no Instituto Federal do Ceará.
-- 🔭 Bolsista em Inteligência Artificial Expĺicável e Saúde Mental.
+- 🔭 Futura bolsista em Inteligência Artificial Expĺicável e Saúde Mental.
 
 ## 🚀 Sobre Mim
 
