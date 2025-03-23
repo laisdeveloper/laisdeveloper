@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=6A5ACD&lines=Hello,+World!+🌎;Welcome!;I+am+Laís+Coutinho!;🌟+Passionate+for+Inovation!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?color=6A5ACD&lines=Hello,+World!+🌎;Welcome!;I+am+Laís+Coutinho!;🌟+Passionate+for+Inovation!&center=true&size=35">
   </a>
 </h1>
 
@@ -57,9 +57,14 @@
 
 <h2 align="left">🛠️ Statistics</h2>
 
-![laisdeveloper GitHub Stats](https://github-readme-stats.vercel.app/api?username=laisdeveloper\&rank_icon=github\&theme=tokyonight#gh-dark-mode-only)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laisdeveloper&layout=donut\&theme=tokyonight#gh-dark-mode-only)](https://github.com/laisdeveloper/github-readme-stats)
+<div style="display: flex; justify-content: space-around;">
+  <div>
+    ![laisdeveloper GitHub Stats](https://github-readme-stats.vercel.app/api?username=laisdeveloper&rank_icon=github&theme=tokyonight#gh-dark-mode-only)
+  </div>
+  <div>
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laisdeveloper&layout=donut&theme=tokyonight#gh-dark-mode-only)](https://github.com/laisdeveloper/github-readme-stats)
+  </div>
+</div>
 
 ![Snake animation](https://raw.githubusercontent.com/laisdeveloper/laisdeveloper/output/github-contribution-grid-snake-dark.svg)
 
