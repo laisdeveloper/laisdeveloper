@@ -1,21 +1,21 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=6A5ACD&lines=Hello,+World!+🌎;Welcome!;I+am+Laís+Coutinho!;🌟+Passionate+for+Inovation!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?color=6A5ACD&lines=Olá,+Mundo!+🌎;Eu+sou+Laís+Coutinho!+🌟;&center=true&size=30">
   </a>
 </h1>
 
-<h2 align="left">✨ About Me</h2>
+<h2 align="left">✨ Sobre Mim</h2>
 
 <ul>
-  <li>❤️ Passionate about problems and innovative solutions.</li>
-  <li>💻 Computer Science Student and Computer Technician Student at the Federal Institute of Ceará (IFCE).</li>
-  <li>🌱 Scholarship Student working on Machine Learning and Mental Health Solutions.</li>
-  <li>📚 Always learning and improving my skills, focused on collaborating in innovative projects.</li>
+  <li>❤️ Apaixonada por problemas e soluções inovadoras.</li>
+  <li>💻 Estudante de Ciência da Computação e Estudante de Técnico em Informática no Instituto Federal do Ceará (IFCE).</li>
+  <li>🌱 Bolsa de Iniciação Científica, trabalhando com Machine Learning e Soluções para Saúde Mental.</li>
+  <li>📚 Sempre aprendendo e aprimorando minhas habilidades, focada em colaborar em projetos inovadores.</li>
 </ul>
 
 ---
 
-<h2 align="left">🤖 Technologies</h2>
+<h2 align="left">🤖 Tecnologias</h2>
 
 <div align="center">
   <table>
@@ -38,7 +38,7 @@
   </table>
 </div><br>
 
-<h2 align="left">🛠️ Tools</h2>
+<h2 align="left">🛠️ Ferramentas</h2>
 
 <div align="center">
   <table>
@@ -55,7 +55,7 @@
 
 ---
 
-<h2 align="left">🛠️ Statistics</h2>
+<h2 align="left">🛠️ Estatísticas</h2>
 
 ![laisdeveloper GitHub Stats](https://github-readme-stats.vercel.app/api?username=laisdeveloper\&rank_icon=github\&theme=tokyonight#gh-dark-mode-only)
 
@@ -63,9 +63,26 @@
 
 ![Snake animation](https://raw.githubusercontent.com/laisdeveloper/output/output/github-snake.svg)
 
+
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/laisdeveloper/laisdeveloper/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
 ---
 
-<h2 align="left">📫 How to find me?</h2>
+<h2 align="left">📫 Como me encontrar?</h2>
 
 <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
 <ul>
@@ -83,5 +100,5 @@
 
 ---
 
-<h2 align="center">🌟 Thank you for visiting my profile! 🌟</h2>
-<p>If you prefer, you can view this profile in Portuguese by clicking <a href="./README-ptBR.md">here</a>.</p>
+<h2 align="center">🌟 Obrigada por visitar meu perfil! 🌟</h2>
+<p>Se preferir, você pode visualizar este perfil em inglês clicando <a href="./README.md">aqui</a>.</p>
