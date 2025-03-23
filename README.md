@@ -61,7 +61,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laisdeveloper&layout=donut\&theme=tokyonight#gh-dark-mode-only)](https://github.com/laisdeveloper/github-readme-stats)
 
-![Snake animation](https://raw.githubusercontent.com/laisdeveloper/output/output/github-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/laisdeveloper/laisdeveloper/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
