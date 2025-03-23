@@ -1,11 +1,10 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=6A5ACD&lines=Olá,+Mundo!+🌎;Eu+sou+Laís+Coutinho!+🌟;&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?color=6A5ACD&lines=Olá,+Mundo!+🌎;Me+chamo+Laís+Coutinho!+🌟;&center=true&size=40">
   </a>
 </h1>
 
 <h2 align="left">✨ Sobre Mim</h2>
-
 <ul>
   <li>❤️ Apaixonada por problemas e soluções inovadoras.</li>
   <li>💻 Estudante de Ciência da Computação e Estudante de Técnico em Informática no Instituto Federal do Ceará (IFCE).</li>
@@ -13,10 +12,8 @@
   <li>📚 Sempre aprendendo e aprimorando minhas habilidades, focada em colaborar em projetos inovadores.</li>
 </ul>
 
----
 
 <h2 align="left">🤖 Tecnologias</h2>
-
 <div align="center">
   <table>
     <tr>
@@ -38,8 +35,8 @@
   </table>
 </div><br>
 
-<h2 align="left">🛠️ Ferramentas</h2>
 
+<h2 align="left">🛠️ Ferramentas</h2>
 <div align="center">
   <table>
     <tr>
@@ -53,37 +50,23 @@
   </table>
 </div><br>
 
----
 
 <h2 align="left">🛠️ Estatísticas</h2>
-
-![laisdeveloper GitHub Stats](https://github-readme-stats.vercel.app/api?username=laisdeveloper\&rank_icon=github\&theme=tokyonight#gh-dark-mode-only)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laisdeveloper&layout=donut\&theme=tokyonight#gh-dark-mode-only)](https://github.com/laisdeveloper/github-readme-stats)
-
-![Snake animation](https://raw.githubusercontent.com/laisdeveloper/laisdeveloper/output/github-contribution-grid-snake-dark.svg)
-
-
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/laisdeveloper/laisdeveloper/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
-
----
+<div style="display: flex; justify-content: space-around; width: 100%;">
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=laisdeveloper&rank_icon=github&theme=tokyonight#gh-dark-mode-only" alt="GitHub Stats" />
+  </div>
+  <div>
+    <a href="https://github.com/laisdeveloper/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laisdeveloper&layout=donut&theme=tokyonight#gh-dark-mode-only" alt="Top Languages" />
+    </a>
+  </div>
+</div>
+<div style="text-align: center;">
+  <img src="https://raw.githubusercontent.com/laisdeveloper/laisdeveloper/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
 
 <h2 align="left">📫 Como me encontrar?</h2>
-
 <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
 <ul>
   <li>
@@ -98,7 +81,5 @@
   </li>
 </ul>
 
----
-
 <h2 align="center">🌟 Obrigada por visitar meu perfil! 🌟</h2>
-<p>Se preferir, você pode visualizar este perfil em inglês clicando <a href="./README.md">aqui</a>.</p>
+<p>Se preferir, você pode visualizar este perfil em inglês clicando <a href="./README-en.md">aqui</a>.</p>

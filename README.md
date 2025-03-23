@@ -4,8 +4,8 @@
   </a>
 </h1>
 
-<h2 align="left">✨ About Me</h2>
 
+<h2 align="left">✨ About Me</h2>
 <ul>
   <li>❤️ Passionate about problems and innovative solutions.</li>
   <li>💻 Computer Science Student and Computer Technician Student at the Federal Institute of Ceará (IFCE).</li>
@@ -13,10 +13,8 @@
   <li>📚 Always learning and improving my skills, focused on collaborating in innovative projects.</li>
 </ul>
 
----
 
 <h2 align="left">🤖 Technologies</h2>
-
 <div align="center">
   <table>
     <tr>
@@ -38,8 +36,8 @@
   </table>
 </div><br>
 
-<h2 align="left">🛠️ Tools</h2>
 
+<h2 align="left">🛠️ Tools</h2>
 <div align="center">
   <table>
     <tr>
@@ -53,25 +51,24 @@
   </table>
 </div><br>
 
----
 
 <h2 align="left">🛠️ Statistics</h2>
-
-<div style="display: flex; justify-content: space-around;">
+<div style="display: flex; justify-content: space-around; width: 100%;">
   <div>
-    ![laisdeveloper GitHub Stats](https://github-readme-stats.vercel.app/api?username=laisdeveloper&rank_icon=github&theme=tokyonight#gh-dark-mode-only)
+    <img src="https://github-readme-stats.vercel.app/api?username=laisdeveloper&rank_icon=github&theme=tokyonight#gh-dark-mode-only" alt="GitHub Stats" />
   </div>
   <div>
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laisdeveloper&layout=donut&theme=tokyonight#gh-dark-mode-only)](https://github.com/laisdeveloper/github-readme-stats)
+    <a href="https://github.com/laisdeveloper/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laisdeveloper&layout=donut&theme=tokyonight#gh-dark-mode-only" alt="Top Languages" />
+    </a>
   </div>
 </div>
+<div style="text-align: center;">
+  <img src="https://raw.githubusercontent.com/laisdeveloper/laisdeveloper/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
 
-![Snake animation](https://raw.githubusercontent.com/laisdeveloper/laisdeveloper/output/github-contribution-grid-snake-dark.svg)
-
----
 
 <h2 align="left">📫 How to find me?</h2>
-
 <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
 <ul>
   <li>
@@ -86,7 +83,6 @@
   </li>
 </ul>
 
----
 
 <h2 align="center">🌟 Thank you for visiting my profile! 🌟</h2>
 <p>If you prefer, you can view this profile in Portuguese by clicking <a href="./README-ptBR.md">here</a>.</p>
